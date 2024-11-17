@@ -16,6 +16,8 @@ It includes:
 1. Download the file `DS_Data_Classified.xlsx`.
 2. Open in Excel or Google Sheets.
 3. Populate the sheets with relevant data.
+OR
+Click [here]([YOUR_GOOGLE_SHEET_LINK](https://docs.google.com/spreadsheets/d/1XgeYce7J2c7n941PKeP_Vm_zwt43mFV0NXTe7uz4VPE/edit?usp=sharing)) to open the Google Sheets template.
 
 ## Contributing
 Feel free to contribute by suggesting improvements or reporting issues!
